@@ -81,3 +81,5 @@ function productCaseChange(isIncreasing) {
   document.getElementById("case-total").innerText = "$" + caseTotal;
 }
 */
+
+// Step : 5 >> script.js visited
